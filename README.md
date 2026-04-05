@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joe
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 Full Stack Developer | 🚀 Vue/SpringBoot 实践者 | 🎮AI爱好者
+💻 大模型应用开发者 | 🚀 Vue/SpringBoot 实践者 | 🎮AI爱好者
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
@@ -26,11 +26,10 @@
 </div>
 
 ## 📌 关于我
-- 🔭 目前专注于：Vue3 + SpringBoot + SpringAI + RAG 全栈开发
-- 🌱 学习中：Vibe Coding、Vue生态、Python/Java/C++编程、大模型开发
-- 💬 擅长：前端工程化、后端接口设计、全栈业务开发、AI 应用后端集成
-- 📫 联系我：![QQ](https://img.shields.io/badge/QQ-1439461906-1E88E5?style=flat-square&logo=tencentqq&logoColor=white)
+- 🔭 目前专注：Vue3 + SpringBoot + SpringAI + Agent + RAG 全栈开发
+- 🌱 正在学习：Vibe Coding、Vue生态、Python/Java/C++编程、大模型开发
+- 💬 擅长领域：前端工程化、后端接口设计、全栈业务开发、AI 应用后端集成
+- 📫 联系方式：![QQ](https://img.shields.io/badge/QQ-1439461906-1E88E5?style=flat-square&logo=tencentqq&logoColor=white)
   ![WeChat](https://img.shields.io/badge/WeChat-zx_p147258-07C160?style=flat-square&logo=wechat&logoColor=white)
   ![Email](https://img.shields.io/badge/Email-fujie202509@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
-- ⚡ 趣味：折腾 Vim/IDE 配置、逛技术社区 / 看技术分享、科技前沿
-
+- ⚡ 兴趣爱好：折腾 IDE 配置、逛技术社区、关注科技前沿、研究 AI 应用
