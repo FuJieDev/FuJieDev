@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joe
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 大模型应用开发者 | 🚀 Vue/SpringBoot 实践者 | 🎮AI爱好者
+💻 大模型应用开发者 | 🚀 Vue/SpringBoot 实践者 | 🤖AI爱好者
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
